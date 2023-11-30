@@ -1,16 +1,32 @@
 ### Olá! Meu nome é Murilo! 👋 
 
- Tenho 20 anos e sou Desenvolvedor Mobile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Graduado em Análise e Desenvolvimento de Sistemas na Universidade Unip, e atualmente estou fazendo cursos para me especializar na área de desenvolvimento Mobile. Concluí o bootcamp do Santander em parceria com a DIO sobre Desenvolvimento Mobile utilizando Flutter e estou realizando outros cursos de Flutter para desenvolver melhor minhas habilidades técnicas.
+<p align="left"> 
+  Estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Unip, e atualmente estou fazendo cursos para me especializar na área de desenvolvimento Mobile. Tenho conhecimentos em Flutter e atualmente estou estudando Kotlin.
+</p>
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. 
+<p align="left">
+   <strong>Tecnologias:</strong> 
+  <br>
+   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase">
+</p>
 
-### Tecnologias:
+<p align="left">
+   <strong>Ferramentas:</strong>
+   <br>
+   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea">
+</p>
 
-<div style="display: inline_block"><br/>
+<p align="left">
+   Aqui vai uma mensagem para entrar em contato com você: ⤵
+</p>
 
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
+  <a href="https://www.linkedin.com/in/murilo-furlaneto/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+
+</p>
