@@ -3,19 +3,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Unip, e atualmente estou fazendo cursos para me especializar na área de desenvolvimento Mobile. Tenho conhecimentos em Flutter e atualmente estou estudando Kotlin.
+  Estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Unip, e atualmente estou fazendo cursos para me especializar na área de desenvolvimento Mobile. Tenho conhecimentos em  desenvolvimento utilizando Flutter.
 </p>
 
 <p align="left">
    <strong>Tecnologias:</strong> 
   <br>
-   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase">
+   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase">
 </p>
 
 <p align="left">
    <strong>Ferramentas:</strong>
    <br>
-   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea">
+   <img src="https://skillicons.dev/icons?i=git,github,vscode">
 </p>
 
 <p align="left">
