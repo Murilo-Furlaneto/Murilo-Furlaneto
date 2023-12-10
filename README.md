@@ -63,10 +63,10 @@ Procuro oportunidades e desafios que contribuam ao meu aprendizado e desenvolvim
   <a href="mailto:furlanetomurilo@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-  <a href="https://www.linkedin.com/in/murilo-furlaneto/ target="_blank"" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/murilo-furlaneto/ target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-furlaneto/" alt="LinkedIn"/></a>
 
-   <a href="https://www.instagram.com/murilo__furlaneto/ target="_blank"" title="Instagram">
+   <a href="https://www.instagram.com/murilo__furlaneto/ target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo__furlaneto/ alt="Instagram"/></a>
 
 </p>
