@@ -67,6 +67,6 @@ Procuro oportunidades e desafios que contribuam ao meu aprendizado e desenvolvim
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-furlaneto/" target="_blank" alt="LinkedIn"/></a>
 
    <a href="https://www.instagram.com/murilo__furlaneto/" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo__furlaneto/ alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo__furlaneto/  target="_blank" alt="Instagram"/></a>
 
 </p>
