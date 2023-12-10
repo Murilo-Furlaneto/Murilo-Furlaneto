@@ -3,23 +3,27 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Unip, e atualmente estou fazendo cursos para me especializar na área de desenvolvimento Mobile. Tenho conhecimentos em  desenvolvimento utilizando Flutter.
+  Sou um desenvolvedor mobile apaixonado por transformar linhas de código em experiências incríveis. Atualmente estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP.
+
+Sou apaixonado pelo desenvolvimento mobile e estou em constante busca por aprimorar meus conhecimentos na área. Desenvolvo aplicativos utilizando o Framework Flutter, porém pretendo me especializar em desenvolvimento IOS. 
 </p>
 
 <p align="left">
-   <strong>Tecnologias:</strong> 
+   <strong>TECNOLOGIAS:</strong> 
+  <br>
   <br>
    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase">
 </p>
 
 <p align="left">
-   <strong>Ferramentas:</strong>
+   <strong>FERRAMENTAS:</strong>
    <br>
+    <br>
    <img src="https://skillicons.dev/icons?i=git,github,vscode">
 </p>
 
 <p align="left">
-   Aqui vai uma mensagem para entrar em contato com você: ⤵
+   <strong>CONTATO:</strong>
 </p>
 
 <p align="left">
