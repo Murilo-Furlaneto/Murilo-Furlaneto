@@ -5,7 +5,10 @@
 <p align="left"> 
   Sou um desenvolvedor mobile apaixonado por transformar linhas de código em experiências incríveis. Atualmente estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP.
 
-Sou apaixonado pelo desenvolvimento mobile e estou em constante busca por aprimorar meus conhecimentos na área. Desenvolvo aplicativos utilizando o Framework Flutter, porém pretendo me especializar em desenvolvimento IOS. 
+Sou apaixonado por desenvolvimento mobile e estou sempre trabalhando para aprimorar meus conhecimentos na área. Desenvolvo aplicativos utilizando o Framework Flutter, porém pretendo me especializar em desenvolvimento IOS.
+
+Procuro oportunidades e desafios que contribuam ao meu aprendizado e desenvolvimento profissional. Se você busca alguém engajado em fazer a diferença no mundo digital, estou aqui para contribuir.
+
 </p>
 
 <p align="left">
@@ -23,6 +26,36 @@ Sou apaixonado pelo desenvolvimento mobile e estou em constante busca por aprimo
 </p>
 
 <p align="left">
+   <strong>ESTATÍSTICAS:</strong>
+</p>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=murilo-furlaneto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-furlaneto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-furlaneto&theme=tokyonight&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+ 
+<p align="left">
    <strong>CONTATO:</strong>
 </p>
 
@@ -31,6 +64,9 @@ Sou apaixonado pelo desenvolvimento mobile e estou em constante busca por aprimo
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/murilo-furlaneto/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-furlaneto/" alt="LinkedIn"/></a>
+
+   <a href="https://www.linkedin.com/in/murilo-furlaneto/" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt="Instagram"/></a>
 
 </p>
