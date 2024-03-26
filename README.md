@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou um desenvolvedor mobile apaixonado por transformar linhas de código em experiências incríveis. Atualmente estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP.
+  Sou um desenvolvedor mobile apaixonado por transformar linhas de código em experiências incríveis. Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIP. Atualmente estou cursando tecnólogo em Mobile pelo Senai Goais.
 
 Sou apaixonado por desenvolvimento mobile e estou sempre trabalhando para aprimorar meus conhecimentos na área. Desenvolvo aplicativos utilizando o Framework Flutter, porém pretendo me especializar em desenvolvimento IOS.
 
