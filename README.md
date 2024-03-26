@@ -15,7 +15,7 @@ Procuro oportunidades e desafios que contribuam ao meu aprendizado e desenvolvim
    <strong>TECNOLOGIAS:</strong> 
   <br>
   <br>
-   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase">
+   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mysql">
 </p>
 
 <p align="left">
