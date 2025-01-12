@@ -2,12 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Sou um desenvolvedor mobile apaixonado por transformar linhas de código em experiências incríveis. Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIP. Atualmente estou cursando tecnólogo em Mobile pelo Senai Goais.
+<p align="left"> I'm a mobile developer with hands-on experience in creating impactful digital solutions. My expertise includes building scalable and efficient mobile applications using Flutter and Dart, with a strong focus on user experience and performance.
+  
+Currently, I am expanding my skills through a postgraduate program in Mobile Development at Senai Goiás, while continuously working on projects that challenge and inspire me. My next goal is to dive deeper into software architecture and native iOS development.
 
-Sou apaixonado por desenvolvimento mobile e estou sempre trabalhando para aprimorar meus conhecimentos na área. Desenvolvo aplicativos utilizando o Framework Flutter, porém pretendo me especializar em desenvolvimento IOS.
-
-Procuro oportunidades e desafios que contribuam ao meu aprendizado e desenvolvimento profissional. Se você busca alguém engajado em fazer a diferença no mundo digital, estou aqui para contribuir.
+I am open to collaborations and opportunities to contribute to innovative projects. Let's build something amazing together!
 
 </p>
 
