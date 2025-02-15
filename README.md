@@ -1,12 +1,14 @@
-### Olá! Meu nome é Murilo! 👋 
+### [Olá! Meu nome é Murilo! 👋](pplx://action/followup)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> I'm a mobile developer with hands-on experience in creating impactful digital solutions. My expertise includes building scalable and efficient mobile applications using Flutter and Dart, with a strong focus on user experience and performance.
-  
-Currently, I am expanding my skills through a postgraduate program in Mobile Development at Senai Goiás, while continuously working on projects that challenge and inspire me. My next goal is to dive deeper into software architecture and native iOS development.
+<p align="left"> Sou um desenvolvedor mobile com experiência prática na criação de soluções digitais de alto impacto. Minha expertise inclui a construção de aplicações móveis escaláveis e eficientes utilizando Flutter e Dart, com um forte foco na experiência do usuário e performance. Possuo experiência na integração de equipamentos e diversos meios de pagamento, como SmartPOS, Stone, Rede, PagSeguro, TEF Elgin e PIX.
 
-I am open to collaborations and opportunities to contribute to innovative projects. Let's build something amazing together!
+Atualmente, estou expandindo minhas habilidades através de um programa de pós-graduação em Desenvolvimento Mobile no Senai Goiás, enquanto continuo trabalhando em projetos que me desafiam e inspiram.
+
+Estou aberto a colaborações e oportunidades para contribuir em projetos inovadores. Vamos construir algo incrível juntos!
+</p>
+
 
 </p>
 
